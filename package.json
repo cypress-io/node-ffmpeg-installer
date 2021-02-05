@@ -1,0 +1,12 @@
+{
+  "name": "@ffmpeg-installer/darwin-arm64",
+  "version": "4.1.0",
+  "description": "Mac OS X FFmpeg binary used by ffmpeg-installer",
+  "homepage": "https://evermeet.cx/ffmpeg/",
+  "os": [
+    "darwin"
+  ],
+  "cpu": [
+    "arm64"
+  ]
+}
